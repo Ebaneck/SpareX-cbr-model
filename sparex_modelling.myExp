@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="sparex_modelling" author="Ebaneck Andui Claude A." >
+<exp obj="Spareparts" type="Concept" >
+  <desc>
+          </desc>
+</exp>
+<exp obj="sparex_modelling" type="Concept" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="caseID" c="Spareparts" type="AttributeDesc" >
+  <desc>
+          </desc>
+</exp>
+<exp obj="City" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="SocialQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Model" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Category" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="MakeYear" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="ReceptionQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Language" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="UsageDuration" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;            </desc>
+</exp>
+<exp obj="Institute" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="VisualQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Country" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Description" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Manufacturer" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Price" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Zip" c="Spareparts" type="AttributeDesc" >
+  <desc>
+&#10;    </desc>
+</exp>
+<exp obj="Link" c="Spareparts" type="AttributeDesc" >
+  <desc>
+This field might be used to model image links  </desc>
+</exp>
+<exp obj="Spareparts1" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts2" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+</Project>
