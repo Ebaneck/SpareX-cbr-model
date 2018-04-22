@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="sparex" author="Ebaneck Andui CLaude" >
+<exp obj="Spareparts" type="Concept" >
+  <desc>
+      </desc>
+</exp>
+<exp obj="sparex" type="Concept" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="caseID" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Institute" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Category" c="Spareparts" type="AttributeDesc" >
+  <desc>
+      </desc>
+</exp>
+<exp obj="MakeYear" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="SocialQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Country" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Link" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Model" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="AcademicQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Price" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Continent" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Manufacturer" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Description" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Zip" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="UsageDuration" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="ReceptionQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="ResidentialQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Language" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="City" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="VisualQuality" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Body" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Power" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Color" c="Spareparts" type="AttributeDesc" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Cars" c="Spareparts" desc="Category" type="SimpleAttribute" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts105" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts1" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts110" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts8" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts109" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts3" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts107" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts7" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts104" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts1" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts101" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts99" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts98" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts3" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts5" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts10" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts10" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts97" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts93" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts106" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts2" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts4" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts102" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts4" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts96" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts9" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts13" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts1" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts6" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts1" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts103" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts100" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts3" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts94" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts9" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts0" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+<exp obj="Spareparts11" c="Spareparts" type="Instance" >
+  <desc>
+  </desc>
+</exp>
+</Project>

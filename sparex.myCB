@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="sparex" author="Ebaneck Andui CLaude" >
+<instances name="Spareparts">
+  <instance id="Spareparts20" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="14599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="136" />
+    <att name="Color" value="violet" />
+  </instance>
+  <instance id="Spareparts28" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="44099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="176" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts27" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="31499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="101" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts26" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="13099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="110" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts25" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="18099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="100" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts24" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="46799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="176" />
+    <att name="Color" value="light_gray" />
+  </instance>
+  <instance id="Spareparts23" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="22099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="dark_blue" />
+  </instance>
+  <instance id="Spareparts22" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="41899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="142" />
+    <att name="Color" value="turquoise" />
+  </instance>
+  <instance id="Spareparts21" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="41499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="278" />
+    <att name="Color" value="blue" />
+  </instance>
+  <instance id="Spareparts29" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="19499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="64" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts31" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="18599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts30" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="36599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="gray" />
+  </instance>
+  <instance id="Spareparts39" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="27999" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="192" />
+    <att name="Color" value="yellow" />
+  </instance>
+  <instance id="Spareparts38" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="31899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="100" />
+    <att name="Color" value="yellow" />
+  </instance>
+  <instance id="Spareparts37" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="25299" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="130" />
+    <att name="Color" value="dark_gray" />
+  </instance>
+  <instance id="Spareparts36" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="22899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts9" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="33299" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts35" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="13299" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="100" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts34" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="33599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="violet" />
+  </instance>
+  <instance id="Spareparts33" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="21499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="75" />
+    <att name="Color" value="turquoise" />
+  </instance>
+  <instance id="Spareparts32" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="78199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="320" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts5" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="_unknown_" />
+    <att name="Country" value="Nederland" />
+    <att name="SocialQuality" value="8" />
+    <att name="Link" value="https://www.ntnu.no/studier/studier_i_utlandet/rapport/report.php?recordid=100" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="Europe" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts6" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="_unknown_" />
+    <att name="Country" value="USA" />
+    <att name="SocialQuality" value="10" />
+    <att name="Link" value="https://www.ntnu.no/studier/studier_i_utlandet/rapport/report.php?recordid=10002" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="North America" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts7" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="_unknown_" />
+    <att name="Country" value="USA" />
+    <att name="SocialQuality" value="9" />
+    <att name="Link" value="https://www.ntnu.no/studier/studier_i_utlandet/rapport/report.php?recordid=10" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="North America" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts8" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="28699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts1" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="_unknown_" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="8" />
+    <att name="Link" value="https://www.ntnu.no/studier/studier_i_utlandet/rapport/report.php?recordid=100" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="Europe" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts2" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="_unknown_" />
+    <att name="Country" value="USA" />
+    <att name="SocialQuality" value="10" />
+    <att name="Link" value="https://www.ntnu.no/studier/studier_i_utlandet/rapport/report.php?recordid=10002" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="North America" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts3" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="_unknown_" />
+    <att name="Country" value="USA" />
+    <att name="SocialQuality" value="9" />
+    <att name="Link" value="https://www.ntnu.no/studier/studier_i_utlandet/rapport/report.php?recordid=10" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="North America" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts4" >
+    <att name="Category" value="Cars" />
+    <att name="MakeYear" value="2009" />
+    <att name="Country" value="New Zealand" />
+    <att name="SocialQuality" value="9" />
+    <att name="Link" value="https://c.76.my/Malaysia/sparepart-iphone-4s-charging-port-flex-cable-mic-ribbon-ori-gradeone-1412-11-GRADEONE@1.jpg" />
+    <att name="Model" value="Iphone5" />
+    <att name="Continent" value="Oceania" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="Apple" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="4" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts0" >
+    <att name="Category" value="Cell Phones" />
+    <att name="MakeYear" value="2009" />
+    <att name="Country" value="New Zealand" />
+    <att name="SocialQuality" value="9" />
+    <att name="Link" value="https://c.76.my/Malaysia/sparepart-iphone-4s-charging-port-flex-cable-mic-ribbon-ori-gradeone-1412-11-GRADEONE@1.jpg" />
+    <att name="Model" value="Iphone5" />
+    <att name="Continent" value="Oceania" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="Apple" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="4" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts42" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="8899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="110" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts41" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="36799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="193" />
+    <att name="Color" value="dark_gray" />
+  </instance>
+  <instance id="Spareparts40" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="41299" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="blue" />
+  </instance>
+  <instance id="Spareparts49" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="61499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="235" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts48" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="16899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="191" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts47" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="25199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="64" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts46" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="18699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="75" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts45" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="37499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="136" />
+    <att name="Color" value="turquoise" />
+  </instance>
+  <instance id="Spareparts44" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="9699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="gray" />
+  </instance>
+  <instance id="Spareparts43" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="21799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts53" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="6199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="dark_gray" />
+  </instance>
+  <instance id="Spareparts52" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="14799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="122" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts51" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="32599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="190" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts50" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="30699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="136" />
+    <att name="Color" value="turquoise" />
+  </instance>
+  <instance id="Spareparts59" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="32599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="100" />
+    <att name="Color" value="violet" />
+  </instance>
+  <instance id="Spareparts58" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="10599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts57" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="26599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts56" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="21899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts55" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="57599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="130" />
+    <att name="Color" value="violet" />
+  </instance>
+  <instance id="Spareparts54" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="17699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="white" />
+  </instance>
+  <instance id="Spareparts64" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="56399" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="193" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts63" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="7599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="100" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts62" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="24699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts61" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="11899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts60" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="36499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="176" />
+    <att name="Color" value="turquoise" />
+  </instance>
+  <instance id="Spareparts69" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="46299" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="204" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts68" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="48399" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="193" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts67" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="14799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="95" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts66" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="56699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="191" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts65" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="14499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="100" />
+    <att name="Color" value="turquoise" />
+  </instance>
+  <instance id="Spareparts75" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="55999" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="193" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts107" >
+    <att name="Category" value="Cell Phones" />
+    <att name="MakeYear" value="2009" />
+    <att name="Country" value="France" />
+    <att name="SocialQuality" value="9" />
+    <att name="Link" value="https://c.76.my/Malaysia/sparepart-iphone-4s-charging-port-flex-cable-mic-ribbon-ori-gradeone-1412-11-GRADEONE@1.jpg" />
+    <att name="Model" value="Iphone5" />
+    <att name="Continent" value="Europe" />
+    <att name="Price" value="_unknown_" />
+    <att name="Manufacturer" value="Apple" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="75013" />
+    <att name="UsageDuration" value="4" />
+    <att name="Language" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="Power" value="_unknown_" />
+    <att name="Color" value="_unknown_" />
+  </instance>
+  <instance id="Spareparts74" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="11099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="170" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts106" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="58499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="176" />
+    <att name="Color" value="yellow" />
+  </instance>
+  <instance id="Spareparts73" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="88899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="278" />
+    <att name="Color" value="blue" />
+  </instance>
+  <instance id="Spareparts105" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="38199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="110" />
+    <att name="Color" value="gray" />
+  </instance>
+  <instance id="Spareparts72" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="48999" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="110" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts104" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="23899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="110" />
+    <att name="Color" value="violet" />
+  </instance>
+  <instance id="Spareparts71" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="19199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="193" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts103" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="10699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="60" />
+    <att name="Color" value="dark_gray" />
+  </instance>
+  <instance id="Spareparts70" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="18099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="100" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts102" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="18499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="75" />
+    <att name="Color" value="red" />
+  </instance>
+  <instance id="Spareparts101" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="21099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="light_gray" />
+  </instance>
+  <instance id="Spareparts100" >
+    <att name="Category" value="Cars" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="France" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="32799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts79" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="30899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="blue" />
+  </instance>
+  <instance id="Spareparts78" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="55699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="320" />
+    <att name="Color" value="silver" />
+  </instance>
+  <instance id="Spareparts77" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="26499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts76" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="40099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="dark_blue" />
+  </instance>
+  <instance id="Spareparts86" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="36999" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="320" />
+    <att name="Color" value="gray" />
+  </instance>
+  <instance id="Spareparts85" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="55199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="193" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts84" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="41899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="193" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts83" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="37299" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="95" />
+    <att name="Color" value="silver" />
+  </instance>
+  <instance id="Spareparts82" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="26599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="102" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts81" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="39799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="170" />
+    <att name="Color" value="turquoise" />
+  </instance>
+  <instance id="Spareparts80" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="37099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="170" />
+    <att name="Color" value="gray" />
+  </instance>
+  <instance id="Spareparts89" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="22799" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="140" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts88" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="55699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="197" />
+    <att name="Color" value="yellow" />
+  </instance>
+  <instance id="Spareparts87" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="11899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="64" />
+    <att name="Color" value="anthracite" />
+  </instance>
+  <instance id="Spareparts97" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="25199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="170" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts96" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="33999" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="95" />
+    <att name="Color" value="light_gray" />
+  </instance>
+  <instance id="Spareparts95" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="23699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="101" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts94" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="24599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="170" />
+    <att name="Color" value="violet" />
+  </instance>
+  <instance id="Spareparts93" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="35999" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts92" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="25199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="125" />
+    <att name="Color" value="white" />
+  </instance>
+  <instance id="Spareparts91" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="32199" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="125" />
+    <att name="Color" value="dark_blue" />
+  </instance>
+  <instance id="Spareparts90" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="23299" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="95" />
+    <att name="Color" value="anthracite" />
+  </instance>
+  <instance id="Spareparts17" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="58699" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="204" />
+    <att name="Color" value="yellow" />
+  </instance>
+  <instance id="Spareparts16" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="16499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="light_gray" />
+  </instance>
+  <instance id="Spareparts15" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="30399" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="dark_gray" />
+  </instance>
+  <instance id="Spareparts14" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="39099" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="115" />
+    <att name="Color" value="light_gray" />
+  </instance>
+  <instance id="Spareparts13" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="55599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="170" />
+    <att name="Color" value="gray" />
+  </instance>
+  <instance id="Spareparts12" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="25599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="102" />
+    <att name="Color" value="dark_red" />
+  </instance>
+  <instance id="Spareparts11" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="43599" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="150" />
+    <att name="Color" value="black" />
+  </instance>
+  <instance id="Spareparts99" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="26399" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="90" />
+    <att name="Color" value="green" />
+  </instance>
+  <instance id="Spareparts10" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1997" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="87499" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="285" />
+    <att name="Color" value="dark_green" />
+  </instance>
+  <instance id="Spareparts98" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1996" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="66999" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="278" />
+    <att name="Color" value="orange" />
+  </instance>
+  <instance id="Spareparts19" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1995" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="34899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="142" />
+    <att name="Color" value="white" />
+  </instance>
+  <instance id="Spareparts18" >
+    <att name="Category" value="_unknown_" />
+    <att name="MakeYear" value="1994" />
+    <att name="Country" value="_unknown_" />
+    <att name="SocialQuality" value="_unknown_" />
+    <att name="Link" value="_unknown_" />
+    <att name="Model" value="_unknown_" />
+    <att name="Continent" value="_unknown_" />
+    <att name="Price" value="31899" />
+    <att name="Manufacturer" value="_unknown_" />
+    <att name="Description" value="_unknown_" />
+    <att name="Zip" value="_unknown_" />
+    <att name="UsageDuration" value="_unknown_" />
+    <att name="Language" value="_unknown_" />
+    <att name="VisualQuality" value="_unknown_" />
+    <att name="City" value="_unknown_" />
+    <att name="Power" value="110" />
+    <att name="Color" value="dark_green" />
+  </instance>
+</instances>
+<cb name="spare">
+     <case name="Spareparts20" />
+     <case name="Spareparts28" />
+     <case name="Spareparts27" />
+     <case name="Spareparts26" />
+     <case name="Spareparts25" />
+     <case name="Spareparts24" />
+     <case name="Spareparts23" />
+     <case name="Spareparts22" />
+     <case name="Spareparts21" />
+     <case name="Spareparts29" />
+     <case name="Spareparts31" />
+     <case name="Spareparts30" />
+     <case name="Spareparts39" />
+     <case name="Spareparts38" />
+     <case name="Spareparts37" />
+     <case name="Spareparts36" />
+     <case name="Spareparts9" />
+     <case name="Spareparts35" />
+     <case name="Spareparts34" />
+     <case name="Spareparts33" />
+     <case name="Spareparts32" />
+     <case name="Spareparts8" />
+     <case name="Spareparts42" />
+     <case name="Spareparts41" />
+     <case name="Spareparts40" />
+     <case name="Spareparts49" />
+     <case name="Spareparts48" />
+     <case name="Spareparts47" />
+     <case name="Spareparts46" />
+     <case name="Spareparts45" />
+     <case name="Spareparts44" />
+     <case name="Spareparts43" />
+     <case name="Spareparts53" />
+     <case name="Spareparts52" />
+     <case name="Spareparts51" />
+     <case name="Spareparts50" />
+     <case name="Spareparts59" />
+     <case name="Spareparts58" />
+     <case name="Spareparts57" />
+     <case name="Spareparts56" />
+     <case name="Spareparts55" />
+     <case name="Spareparts54" />
+     <case name="Spareparts64" />
+     <case name="Spareparts63" />
+     <case name="Spareparts62" />
+     <case name="Spareparts61" />
+     <case name="Spareparts60" />
+     <case name="Spareparts69" />
+     <case name="Spareparts68" />
+     <case name="Spareparts67" />
+     <case name="Spareparts66" />
+     <case name="Spareparts65" />
+     <case name="Spareparts75" />
+     <case name="Spareparts74" />
+     <case name="Spareparts106" />
+     <case name="Spareparts73" />
+     <case name="Spareparts105" />
+     <case name="Spareparts72" />
+     <case name="Spareparts104" />
+     <case name="Spareparts71" />
+     <case name="Spareparts103" />
+     <case name="Spareparts70" />
+     <case name="Spareparts102" />
+     <case name="Spareparts101" />
+     <case name="Spareparts100" />
+     <case name="Spareparts79" />
+     <case name="Spareparts78" />
+     <case name="Spareparts77" />
+     <case name="Spareparts76" />
+     <case name="Spareparts86" />
+     <case name="Spareparts85" />
+     <case name="Spareparts84" />
+     <case name="Spareparts83" />
+     <case name="Spareparts82" />
+     <case name="Spareparts81" />
+     <case name="Spareparts80" />
+     <case name="Spareparts89" />
+     <case name="Spareparts88" />
+     <case name="Spareparts87" />
+     <case name="Spareparts97" />
+     <case name="Spareparts96" />
+     <case name="Spareparts95" />
+     <case name="Spareparts94" />
+     <case name="Spareparts93" />
+     <case name="Spareparts92" />
+     <case name="Spareparts91" />
+     <case name="Spareparts90" />
+     <case name="Spareparts17" />
+     <case name="Spareparts16" />
+     <case name="Spareparts15" />
+     <case name="Spareparts14" />
+     <case name="Spareparts13" />
+     <case name="Spareparts12" />
+     <case name="Spareparts11" />
+     <case name="Spareparts99" />
+     <case name="Spareparts10" />
+     <case name="Spareparts98" />
+     <case name="Spareparts19" />
+     <case name="Spareparts18" />
+</cb>
+</Project>

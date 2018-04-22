@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Project name="sparex" author="Ebaneck Andui CLaude" >
+<svs>
+  <sv name="_unknown_"/>
+  <sv name="_undefined_"/>
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="_unknown_">
+</qsym>
+<qsym name="_undefined_">
+</qsym>
+</fct>
+</svs>
+<model>
+  <concept name="Spareparts">
+    <desc name="Zip" type="Symbol" mult="false" >
+      <symbol value="9932" />
+      <symbol value="75008" />
+      <symbol value="74013" />
+      <symbol value="75013" />
+      <symbol value="75012" />
+      <symbol value="75011" />
+      <symbol value="75010" />
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="9932">
+</qsym>
+<qsym name="75008">
+</qsym>
+<qsym name="74013">
+</qsym>
+<qsym name="75013">
+</qsym>
+<qsym name="75012">
+</qsym>
+<qsym name="75011">
+</qsym>
+<qsym name="75010">
+</qsym>
+</fct>
+<fct name="zipSim" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="9932">
+</qsym>
+<qsym name="75008">
+</qsym>
+<qsym name="74013">
+</qsym>
+<qsym name="75013">
+</qsym>
+<qsym name="75012">
+</qsym>
+<qsym name="75011">
+</qsym>
+<qsym name="75010">
+</qsym>
+</fct>
+    </desc>
+    <desc name="Category" type="Symbol" mult="false" >
+      <symbol value="Cars" />
+      <symbol value="Computers" />
+      <symbol value="Motorcycle Parts" />
+      <symbol value="Yard, Garden, Outdoor" />
+      <symbol value="Cell Phones" />
+      <symbol value="Car Electronics" />
+      <symbol value="TV, Video, Audio" />
+      <symbol value="Generators" />
+      <symbol value="Batteries and Chargers" />
+      <symbol value="Saws and Blades" />
+      <symbol value="Code Readers and Scanners" />
+      <symbol value="Jacks and Jack Stands" />
+      <symbol value="Kitchen, Dining, Bar" />
+      <symbol value="Welding and Soldering Tools" />
+      <symbol value="Video Games" />
+      <symbol value="Cordless Drills" />
+      <symbol value="Laptops" />
+      <symbol value="Household and Cleaning" />
+      <symbol value="Measuring Tools" />
+      <symbol value="Camera" />
+      <symbol value="Hand Tools" />
+<fct name="categorySim" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="Cars">
+</qsym>
+<qsym name="Computers">
+</qsym>
+<qsym name="Motorcycle Parts">
+</qsym>
+<qsym name="Yard, Garden, Outdoor">
+</qsym>
+<qsym name="Cell Phones">
+</qsym>
+<qsym name="Car Electronics">
+</qsym>
+<qsym name="TV, Video, Audio">
+</qsym>
+<qsym name="Generators">
+</qsym>
+<qsym name="Batteries and Chargers">
+</qsym>
+<qsym name="Saws and Blades">
+</qsym>
+<qsym name="Code Readers and Scanners">
+</qsym>
+<qsym name="Jacks and Jack Stands">
+</qsym>
+<qsym name="Kitchen, Dining, Bar">
+</qsym>
+<qsym name="Welding and Soldering Tools">
+</qsym>
+<qsym name="Video Games">
+</qsym>
+<qsym name="Cordless Drills">
+</qsym>
+<qsym name="Laptops">
+</qsym>
+<qsym name="Household and Cleaning">
+</qsym>
+<qsym name="Measuring Tools">
+</qsym>
+<qsym name="Camera">
+</qsym>
+<qsym name="Hand Tools">
+</qsym>
+</fct>
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="Cars">
+</qsym>
+<qsym name="Computers">
+</qsym>
+<qsym name="Motorcycle Parts">
+</qsym>
+<qsym name="Yard, Garden, Outdoor">
+</qsym>
+<qsym name="Cell Phones">
+</qsym>
+<qsym name="Car Electronics">
+</qsym>
+<qsym name="TV, Video, Audio">
+</qsym>
+<qsym name="Generators">
+</qsym>
+<qsym name="Batteries and Chargers">
+</qsym>
+<qsym name="Saws and Blades">
+</qsym>
+<qsym name="Code Readers and Scanners">
+</qsym>
+<qsym name="Jacks and Jack Stands">
+</qsym>
+<qsym name="Kitchen, Dining, Bar">
+</qsym>
+<qsym name="Welding and Soldering Tools">
+</qsym>
+<qsym name="Video Games">
+</qsym>
+<qsym name="Cordless Drills">
+</qsym>
+<qsym name="Laptops">
+</qsym>
+<qsym name="Household and Cleaning">
+</qsym>
+<qsym name="Measuring Tools">
+</qsym>
+<qsym name="Camera">
+</qsym>
+<qsym name="Hand Tools">
+</qsym>
+</fct>
+    </desc>
+    <desc name="Description" type="String" mult="false" >
+      <fct name="default function" type="String" symm="true" config="EQUALITY" n="3" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Color" type="Symbol" mult="false" >
+      <symbol value="dark_red" />
+      <symbol value="green" />
+      <symbol value="dark_green" />
+      <symbol value="light_gray" />
+      <symbol value="black" />
+      <symbol value="yellow" />
+      <symbol value="violet" />
+      <symbol value="turquoise" />
+      <symbol value="dark_blue" />
+      <symbol value="red" />
+      <symbol value="orange" />
+      <symbol value="gray" />
+      <symbol value="white" />
+      <symbol value="blue" />
+      <symbol value="dark_gray" />
+      <symbol value="silver" />
+      <symbol value="anthracite" />
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="dark_red">
+</qsym>
+<qsym name="green">
+</qsym>
+<qsym name="dark_green">
+</qsym>
+<qsym name="light_gray">
+</qsym>
+<qsym name="black">
+</qsym>
+<qsym name="yellow">
+</qsym>
+<qsym name="violet">
+</qsym>
+<qsym name="turquoise">
+</qsym>
+<qsym name="dark_blue">
+</qsym>
+<qsym name="red">
+</qsym>
+<qsym name="orange">
+</qsym>
+<qsym name="gray">
+</qsym>
+<qsym name="white">
+</qsym>
+<qsym name="blue">
+</qsym>
+<qsym name="dark_gray">
+</qsym>
+<qsym name="silver">
+</qsym>
+<qsym name="anthracite">
+</qsym>
+</fct>
+    </desc>
+    <desc name="City" type="Symbol" mult="false" >
+      <symbol value="Lyon" />
+      <symbol value="Nantes" />
+      <symbol value="Zurich" />
+      <symbol value="Paris" />
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="Lyon">
+</qsym>
+<qsym name="Nantes">
+</qsym>
+<qsym name="Zurich">
+</qsym>
+<qsym name="Paris">
+</qsym>
+</fct>
+    </desc>
+    <desc name="MakeYear" type="Integer" min="1960" max="2027" mult="false" >
+      <fct name="makeyearSim" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Continent" type="Symbol" mult="false" >
+      <symbol value="South America" />
+      <symbol value="Asia" />
+      <symbol value="Europe" />
+      <symbol value="Ukjent" />
+      <symbol value="Africa" />
+      <symbol value="North America" />
+      <symbol value="Oceania" />
+<fct name="continentSim" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="South America">
+</qsym>
+<qsym name="Asia">
+</qsym>
+<qsym name="Europe">
+</qsym>
+<qsym name="Ukjent">
+</qsym>
+<qsym name="Africa">
+</qsym>
+<qsym name="North America">
+</qsym>
+<qsym name="Oceania">
+</qsym>
+</fct>
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="South America">
+</qsym>
+<qsym name="Asia">
+</qsym>
+<qsym name="Europe">
+</qsym>
+<qsym name="Ukjent">
+</qsym>
+<qsym name="Africa">
+</qsym>
+<qsym name="North America">
+</qsym>
+<qsym name="Oceania">
+</qsym>
+</fct>
+    </desc>
+    <desc name="Language" type="Symbol" mult="false" >
+      <symbol value="English" />
+      <symbol value="French" />
+      <symbol value="Dansk" />
+      <symbol value="Dutch" />
+<fct name="languageSim" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="English">
+</qsym>
+<qsym name="French">
+</qsym>
+<qsym name="Dansk">
+</qsym>
+<qsym name="Dutch">
+</qsym>
+</fct>
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="English">
+</qsym>
+<qsym name="French">
+</qsym>
+<qsym name="Dansk">
+</qsym>
+<qsym name="Dutch">
+</qsym>
+</fct>
+    </desc>
+    <desc name="UsageDuration" type="Integer" min="1" max="10" mult="false" >
+      <fct name="ratingSim" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Price" type="Integer" min="5" max="10000000" mult="false" >
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Manufacturer" type="Symbol" mult="false" >
+      <symbol value="Apple" />
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="Apple">
+</qsym>
+</fct>
+<fct name="manufacturerSim" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="Apple">
+</qsym>
+</fct>
+    </desc>
+    <desc name="Model" type="Symbol" mult="false" >
+      <symbol value="Iphone7" />
+      <symbol value="Iphone6" />
+      <symbol value="Iphone5" />
+      <symbol value="Iphone4" />
+<fct name="modelSim" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="Iphone7">
+</qsym>
+<qsym name="Iphone6">
+</qsym>
+<qsym name="Iphone5">
+</qsym>
+<qsym name="Iphone4">
+</qsym>
+</fct>
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="Iphone7">
+</qsym>
+<qsym name="Iphone6">
+</qsym>
+<qsym name="Iphone5">
+</qsym>
+<qsym name="Iphone4">
+</qsym>
+</fct>
+    </desc>
+    <desc name="Country" type="Symbol" mult="false" >
+      <symbol value="South America" />
+      <symbol value="Cameroon" />
+      <symbol value="Portugal" />
+      <symbol value="North America" />
+      <symbol value="Guatemala" />
+      <symbol value="Brazil" />
+      <symbol value="Slovenia" />
+      <symbol value="Chile" />
+      <symbol value="Ecuador" />
+      <symbol value="Argentina" />
+      <symbol value="Japan" />
+      <symbol value="Europe" />
+      <symbol value="Tanzania" />
+      <symbol value="Africa" />
+      <symbol value="Ghana" />
+      <symbol value="India" />
+      <symbol value="Albania" />
+      <symbol value="New Zealand" />
+      <symbol value="Canada" />
+      <symbol value="Columbia" />
+      <symbol value="Senegal" />
+      <symbol value="Taiwan" />
+      <symbol value="Finland" />
+      <symbol value="Nederland" />
+      <symbol value="Italy" />
+      <symbol value="Peru" />
+      <symbol value="Germany" />
+      <symbol value="Singapore" />
+      <symbol value="Egypt" />
+      <symbol value="Thailand" />
+      <symbol value="Costa Rica" />
+      <symbol value="Sweden" />
+      <symbol value="Malawi" />
+      <symbol value="Slovakia" />
+      <symbol value="France" />
+      <symbol value="Bulgaria" />
+      <symbol value="USA" />
+      <symbol value="Romania" />
+      <symbol value="Kenya" />
+      <symbol value="Switzerland" />
+      <symbol value="Asia" />
+      <symbol value="Mexico" />
+      <symbol value="Uganda" />
+      <symbol value="Zimbabwe" />
+      <symbol value="Australia" />
+<fct name="default function" type="Symbol" mt="PARTNER_QUERY" r="REUSE" t="MAX" symm="true">
+<qsym name="South America">
+</qsym>
+<qsym name="Cameroon">
+</qsym>
+<qsym name="Portugal">
+</qsym>
+<qsym name="North America">
+</qsym>
+<qsym name="Guatemala">
+</qsym>
+<qsym name="Brazil">
+</qsym>
+<qsym name="Slovenia">
+</qsym>
+<qsym name="Chile">
+</qsym>
+<qsym name="Ecuador">
+</qsym>
+<qsym name="Argentina">
+</qsym>
+<qsym name="Japan">
+</qsym>
+<qsym name="Europe">
+</qsym>
+<qsym name="Tanzania">
+</qsym>
+<qsym name="Africa">
+</qsym>
+<qsym name="Ghana">
+</qsym>
+<qsym name="India">
+</qsym>
+<qsym name="Albania">
+</qsym>
+<qsym name="New Zealand">
+</qsym>
+<qsym name="Canada">
+</qsym>
+<qsym name="Columbia">
+</qsym>
+<qsym name="Senegal">
+</qsym>
+<qsym name="Taiwan">
+</qsym>
+<qsym name="Finland">
+</qsym>
+<qsym name="Nederland">
+</qsym>
+<qsym name="Italy">
+</qsym>
+<qsym name="Peru">
+</qsym>
+<qsym name="Germany">
+</qsym>
+<qsym name="Singapore">
+</qsym>
+<qsym name="Egypt">
+</qsym>
+<qsym name="Thailand">
+</qsym>
+<qsym name="Costa Rica">
+</qsym>
+<qsym name="Sweden">
+</qsym>
+<qsym name="Malawi">
+</qsym>
+<qsym name="Slovakia">
+</qsym>
+<qsym name="France">
+</qsym>
+<qsym name="Bulgaria">
+</qsym>
+<qsym name="USA">
+</qsym>
+<qsym name="Romania">
+</qsym>
+<qsym name="Kenya">
+</qsym>
+<qsym name="Switzerland">
+</qsym>
+<qsym name="Asia">
+</qsym>
+<qsym name="Mexico">
+</qsym>
+<qsym name="Uganda">
+</qsym>
+<qsym name="Zimbabwe">
+</qsym>
+<qsym name="Australia">
+</qsym>
+</fct>
+      <fct name="countryTax" type="Taxonomy" mt="PARTNER_QUERY" r="REUSE" t="MAX" qconfig="INNER_NODES_ANY" cconfig="INNER_NODES_ANY" top="Country" sim="0.0" symm="true" >
+        <node name="Zimbabwe" sim="1.0" parent="Africa" />
+        <node name="Japan" sim="1.0" parent="Asia" />
+        <node name="Peru" sim="1.0" parent="South America" />
+        <node name="Egypt" sim="1.0" parent="Africa" />
+        <node name="France" sim="1.0" parent="Europe" />
+        <node name="Thailand" sim="1.0" parent="Asia" />
+        <node name="Tanzania" sim="1.0" parent="Africa" />
+        <node name="Romania" sim="1.0" parent="Asia" />
+        <node name="Europe" sim="0.0" parent="Country" />
+        <node name="Taiwan" sim="1.0" parent="Asia" />
+        <node name="Cameroon" sim="1.0" parent="Africa" />
+        <node name="Bulgaria" sim="1.0" parent="Europe" />
+        <node name="Senegal" sim="1.0" parent="Africa" />
+        <node name="Finland" sim="1.0" parent="Europe" />
+        <node name="India" sim="1.0" parent="Asia" />
+        <node name="Chile" sim="1.0" parent="South America" />
+        <node name="Mexico" sim="1.0" parent="South America" />
+        <node name="Portugal" sim="1.0" parent="Europe" />
+        <node name="Uganda" sim="1.0" parent="Africa" />
+        <node name="Ecuador" sim="1.0" parent="South America" />
+        <node name="Kenya" sim="1.0" parent="Africa" />
+        <node name="Albania" sim="1.0" parent="Europe" />
+        <node name="Australia" sim="1.0" parent="Country" />
+        <node name="Canada" sim="1.0" parent="North America" />
+        <node name="Ghana" sim="1.0" parent="Africa" />
+        <node name="Singapore" sim="1.0" parent="Asia" />
+        <node name="Slovakia" sim="1.0" parent="Europe" />
+        <node name="Italy" sim="1.0" parent="Europe" />
+        <node name="Switzerland" sim="1.0" parent="Europe" />
+        <node name="Brazil" sim="1.0" parent="South America" />
+        <node name="South America" sim="0.0" parent="Country" />
+        <node name="North America" sim="0.0" parent="Country" />
+        <node name="Costa Rica" sim="1.0" parent="South America" />
+        <node name="New Zealand" sim="1.0" parent="Country" />
+        <node name="Africa" sim="0.0" parent="Country" />
+        <node name="Germany" sim="1.0" parent="Europe" />
+        <node name="USA" sim="1.0" parent="North America" />
+        <node name="Asia" sim="0.0" parent="Country" />
+        <node name="Guatemala" sim="1.0" parent="North America" />
+        <node name="Slovenia" sim="1.0" parent="Europe" />
+        <node name="Argentina" sim="1.0" parent="South America" />
+        <node name="Sweden" sim="1.0" parent="Europe" />
+        <node name="Malawi" sim="1.0" parent="Africa" />
+        <node name="Columbia" sim="1.0" parent="South America" />
+      </fct>
+    </desc>
+    <desc name="SocialQuality" type="Integer" min="1" max="10" mult="false" >
+      <fct name="ratingSim" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="VisualQuality" type="Integer" min="1" max="10" mult="false" >
+      <fct name="ratingSim" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Link" type="String" mult="false" >
+      <fct name="default function" type="String" symm="true" config="EQUALITY" n="3" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <desc name="Power" type="Integer" min="60" max="320" mult="false" >
+      <fct name="default function" type="Integer" ltype="CONSTANT" lparam="1.0" rtype="CONSTANT" rparam="1.0" mode="DIFFERENCE" symm="true" mt="PARTNER_QUERY" r="REUSE" t="MAX" />
+    </desc>
+    <amalgam name="default function" type="WEIGHTED_SUM" active="true" >
+      <entry name="Zip" active="false" fct="zipSim" weight="2.5"/>
+      <entry name="Category" active="true" fct="categorySim" weight="7.0"/>
+      <entry name="Description" active="false" fct="default function" weight="1.0"/>
+      <entry name="Color" active="true" fct="default function" weight="1"/>
+      <entry name="City" active="true" fct="default function" weight="0.0"/>
+      <entry name="MakeYear" active="true" fct="makeyearSim" weight="1.0"/>
+      <entry name="Continent" active="true" fct="continentSim" weight="2.5"/>
+      <entry name="Language" active="true" fct="languageSim" weight="4.0"/>
+      <entry name="UsageDuration" active="true" fct="ratingSim" weight="4.5"/>
+      <entry name="Price" active="false" fct="default function" weight="1.0"/>
+      <entry name="Manufacturer" active="true" fct="manufacturerSim" weight="5.0"/>
+      <entry name="Model" active="true" fct="modelSim" weight="4.0"/>
+      <entry name="Country" active="true" fct="countryTax" weight="4.0"/>
+      <entry name="SocialQuality" active="true" fct="ratingSim" weight="3.0"/>
+      <entry name="VisualQuality" active="true" fct="ratingSim" weight="3.0"/>
+      <entry name="Link" active="true" fct="default function" weight="1.0"/>
+      <entry name="Power" active="true" fct="default function" weight="1"/>
+    </amalgam>
+  </concept>
+</model>
+<hierarchy>
+  <fct name="default function" type="Taxonomy" mt="PARTNER_QUERY" r="REUSE" t="MAX" qconfig="INNER_NODES_ANY" cconfig="INNER_NODES_ANY" top="inheritanceDesc" sim="0.0" symm="true" >
+    <node name="Spareparts" sim="1.0" parent="inheritanceDesc" />
+  </fct>
+</hierarchy>
+<cases no="99" cb="spare"/>
+</Project>
